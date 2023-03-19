@@ -4,8 +4,6 @@ site_description: Fab Academy documentation site for Your Name
 site_author: Your name
 copyright: Copyright 2023 Your name - Creative Commons Attribution Non Commercial
 
-site_url: http://fibasile.fabcloud.io/fabacademy-student-template/
-
 extra:
   # Set your own social media below (or remove)
   social:
